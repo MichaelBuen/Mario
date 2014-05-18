@@ -1,0 +1,3559 @@
+fileFormatVersion: 2
+guid: c9b609b08bd4440df90186f74b97bc12
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: SM3 - Bros_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 404
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 404
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_9
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 404
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 404
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_14
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 404
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 404
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_17
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 404
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 404
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 404
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 404
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 384
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 384
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 384
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_24
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 384
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 384
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_27
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_28
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_29
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_30
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 384
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_32
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_33
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 384
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_36
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 384
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 384
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_38
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 384
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 384
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_40
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 384
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_41
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 384
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_42
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 353
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_43
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 353
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 353
+        width: 14
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: SM3 - Bros_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 353
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: SM3 - Bros_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 353
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: SM3 - Bros_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 353
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: .5, y: 0}
+    - name: SM3 - Bros_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_49
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 353
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_50
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 353
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 353
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 353
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_53
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 353
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 353
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 353
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_57
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 353
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_58
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 353
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 353
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_60
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 353
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_61
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 353
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_62
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 353
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_63
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 353
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 353
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_65
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 353
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_66
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 353
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_67
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 323
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_68
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 323
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_69
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 323
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 323
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_71
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_72
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 323
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 323
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 323
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_75
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 323
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 323
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_77
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 323
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 323
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 323
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_80
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 323
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_81
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 323
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 323
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_83
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 323
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_84
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 323
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_85
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 323
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_86
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 323
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_87
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 323
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_88
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 323
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_89
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 323
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_90
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 323
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_91
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 323
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_93
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 292
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_94
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 296
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 296
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_96
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_97
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 296
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_98
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 292
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_99
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 292
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_100
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 292
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 292
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_102
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 292
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_103
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 292
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 292
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_105
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 292
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 292
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_107
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 292
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_109
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 292
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_110
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 292
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_111
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 292
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_112
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 292
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_113
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 292
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_114
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 292
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_115
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 292
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_116
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 292
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_117
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 292
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_118
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 292
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_119
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 292
+        width: 18
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_120
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 292
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_121
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 292
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_122
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 292
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_124
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 258
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_125
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_126
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 258
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_127
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 258
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_128
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_129
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_130
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 258
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_131
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 258
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_132
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 258
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_133
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 258
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_134
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 262
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_135
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 258
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_136
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 258
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_137
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 258
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 258
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_139
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 258
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_140
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 258
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_141
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 258
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_142
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 258
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 258
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_144
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 258
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_145
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 258
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_146
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 258
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_147
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 258
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_148
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 258
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_149
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 258
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_150
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 258
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_151
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 258
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_152
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 258
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_153
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 258
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_154
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 258
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_155
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 258
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_156
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 258
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_157
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 258
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 225
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_160
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 225
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_161
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 225
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_162
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 225
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_164
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_165
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 225
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_166
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 225
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_167
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 225
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_168
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 225
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_169
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 229
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_170
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 225
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_171
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 225
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_172
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 225
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_173
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 225
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_174
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 225
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_175
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 225
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_176
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 225
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_177
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 225
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_178
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 225
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_179
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 225
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_180
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 225
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_181
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 225
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_182
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 225
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_183
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 225
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_184
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 225
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_185
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 225
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_186
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 225
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_187
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 225
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_188
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 225
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_189
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 225
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_190
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 225
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_191
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 225
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_192
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 225
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_193
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 192
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_194
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_195
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 192
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_196
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 8
+        height: 14
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_197
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_199
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 192
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_200
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_201
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_202
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_203
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_204
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 192
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_205
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 192
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_206
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 192
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_207
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 192
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_208
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 192
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_209
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 192
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_210
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_211
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 192
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_212
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 192
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_213
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 192
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_214
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 192
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_215
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 192
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_216
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 192
+        width: 19
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_217
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 192
+        width: 18
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_218
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 192
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_219
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 192
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_220
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 192
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_221
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_222
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 159
+        width: 16
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_223
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 159
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_224
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 159
+        width: 20
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_225
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 159
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_226
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 159
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_227
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_228
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 159
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_229
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 159
+        width: 15
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_230
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 159
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_231
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 159
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_232
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 160
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_233
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 160
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_234
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_235
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 158
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_236
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 158
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_237
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 158
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_238
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 158
+        width: 16
+        height: 25
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_239
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 158
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_240
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 158
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_241
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 158
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_242
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 158
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_243
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 158
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_244
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 158
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_245
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 121
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_246
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 121
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_247
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 121
+        width: 16
+        height: 24
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_248
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 121
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_249
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 121
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_250
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 121
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_251
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 121
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_252
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 121
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_253
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 121
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_254
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 121
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_255
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 123
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_256
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 121
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_257
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 121
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_258
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 121
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_259
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 121
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_260
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 121
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_261
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 121
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_262
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 121
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_263
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 122
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_264
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 122
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_265
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 122
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_266
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 122
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_267
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 122
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_268
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 122
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_269
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 122
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_270
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 122
+        width: 21
+        height: 29
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_271
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 122
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_272
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 122
+        width: 21
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_273
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 122
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_274
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 122
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_275
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 122
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_276
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 122
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_277
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 122
+        width: 24
+        height: 27
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_278
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 121
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_279
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 121
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_280
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 92
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_281
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 92
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_282
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 91
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_283
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 91
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_284
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 91
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_285
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 91
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_286
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 91
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_287
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 91
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_288
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 91
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_289
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 91
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_290
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 66
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_291
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_292
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 66
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_293
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 66
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_294
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 66
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_295
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 66
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_296
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_297
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 66
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_298
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 83
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_299
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 77
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_300
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 72
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_301
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 74
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_302
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 74
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_303
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 74
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_304
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 74
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_305
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_306
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 74
+        width: 11
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_307
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 74
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_308
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 74
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_309
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 74
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_310
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 72
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_311
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 72
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_312
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 74
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_313
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 72
+        width: 14
+        height: 10
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_314
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 71
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_315
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 65
+        width: 15
+        height: 5
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_316
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 44
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_317
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 44
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_318
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 44
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_319
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 44
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_320
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 18
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_321
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 18
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_322
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_323
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 18
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_324
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 18
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_325
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 18
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_326
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 18
+        width: 20
+        height: 23
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_327
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 18
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_328
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_329
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_330
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_331
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_332
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_333
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_334
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_335
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_336
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_337
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_338
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_339
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_340
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_341
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_342
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_343
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_344
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_345
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_346
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_347
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_348
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_349
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_350
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_351
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_352
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_353
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_354
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_355
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_356
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_357
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_358
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_359
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_360
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_361
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_362
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_363
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_364
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_365
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_366
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_367
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_368
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_369
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_370
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_371
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_372
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_373
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_374
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_375
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_376
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_377
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_378
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2
+        width: 35
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_379
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 5
+        height: 11
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_380
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_381
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_382
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_383
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_384
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_385
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_386
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_387
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_388
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0, y: 0}
+    - name: SM3 - Bros_389
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
